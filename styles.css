@@ -48,7 +48,7 @@ h2{
 
 .img2{
     height: 15vh;
-    bottom: 2vh;
+    top: 2vh;
     right: 2vh;
 }
 
@@ -66,5 +66,6 @@ div{
     left: 10vw;
     height: 50vh;
     top: 20vh;
+    margin-top: 5vh;
 }
 }
